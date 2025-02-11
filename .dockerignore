@@ -1,0 +1,10 @@
+node_modules/
+dist/
+Dockerfile
+.prettierrc
+eslint.config.mjs
+.env-dev
+design.md
+compose.yaml
+.husky/
+.vscode/
